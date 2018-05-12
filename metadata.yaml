@@ -1,0 +1,28 @@
+_repo: The-Mystery-of-Evelin-DelormeA-Hypnotic-Story_33814
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paine, Albert Bigelow
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '1076'
+    url: http://www.gutenberg.org/2009/agents/1076
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
+description: ''
+gutenberg_issued: '2010-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Fantasy fiction'
+title: 'The Mystery of Evelin Delorme: A Hypnotic Story'
+url: http://www.gutenberg.org/ebooks/33814
